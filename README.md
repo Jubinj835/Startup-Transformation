@@ -1,5 +1,5 @@
 # Startup-Transformation
-In this project, I look into the data for a tech startup that is looking to improve its operations after a global pandemic has taken the world by storm.
+In this project, I analyzed the data for a tech startup that is looking to improve its operations after a global pandemic has taken the world by storm.
 
 I apply data transformation techniques to make better sense of the company’s data and help answer important questions such as:
 
